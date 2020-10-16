@@ -51,6 +51,10 @@ html {
 	height: 100%;
 }
 
+body{
+	/*background: url(images/imgDotbg.jpg) repeat;*/
+}
+
 body, p {
 	color: #626262; 
 	font: 400 0.875rem/1.375rem "Raleway","Noto Sans TC","Open Sans" , sans-serif;
@@ -115,6 +119,10 @@ a {
 a:hover {
 	color: #626262;
 	text-decoration: underline;
+}
+
+a.turquoise:hover {
+	color: #0584b8;
 }
 
 a.turquoise {
@@ -1568,7 +1576,7 @@ nav #about  -->#aboutaikido
 }
 
 .basic-4 .fa-stack:hover .fa-stack-2x {
-	color: #00a7bd;
+	color: #0584b8;
 }
 
 .basic-4 .fa-stack:hover .fa-stack-1x {
@@ -1676,7 +1684,7 @@ nav #about  -->#aboutaikido
 }
 
 .footer .fa-stack:hover .fa-stack-2x {
-    color: #00a7bd;
+    color: #0584b8;
 }
 
 
@@ -1714,7 +1722,7 @@ a.back-to-top {
 }
 
 a:hover.back-to-top {
-	background-color: #00a7bd; 
+	background-color: #0584b8; 
 }
 
 
@@ -2082,7 +2090,7 @@ a:hover.back-to-top {
 	}
 
 	.navbar-custom .fa-stack:hover .fa-stack-1x {
-		color: #0193cf;
+		color: #0584b8;
 	}
 
 	.navbar-custom.top-nav-collapse .fa-stack-2x {
@@ -2094,7 +2102,7 @@ a:hover.back-to-top {
 	}
 
 	.navbar-custom.top-nav-collapse .fa-stack:hover .fa-stack-2x {
-		color: #00a7bd;
+		color: #0584b8;
 	}
 	
 	.navbar-custom.top-nav-collapse .fa-stack:hover .fa-stack-1x {
