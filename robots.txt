@@ -2,3 +2,5 @@ User-Agent:*
 Disallow:/images/
 Disallow:/.gitignore
 Disallow:/webfonts/
+User-agent: Googlebot-Image
+Disallow: /
