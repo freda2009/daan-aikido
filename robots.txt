@@ -1,6 +1,12 @@
 User-Agent:*
 Disallow:/images/
 Disallow:/.gitignore
+<<<<<<< HEAD
 Disallow:/webfonts/
 User-agent: Googlebot-Image
 Disallow: /
+||||||| ccb6b7c
+Disallow:/
+=======
+Disallow:/webfonts/
+>>>>>>> c1b84f321ee2514dd9724d29306983236408f147
