@@ -42,9 +42,24 @@ Colors:
 ******************************************/
 
 
+
+/* start for 【公告】 modal*/
+.modal.fade .modal-dialog {
+  transform: translateY(10vh);
+}
+.modal.show .modal-dialog {
+  transform: translateY(0);
+}
+
+/* END of 【公告】 modal*/
+
+
 /******************************/
 /*     01. General Styles     */
 /******************************/
+
+
+
 body,
 html {
     width: 100%;
