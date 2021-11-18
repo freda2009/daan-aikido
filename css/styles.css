@@ -56,7 +56,7 @@ body{
 }
 
 body, p {
-	color: #626262; 
+	color: #000; 
 	font: 400 0.875rem/1.375rem "Raleway","Noto Sans TC","Open Sans" , sans-serif;
 }
 
@@ -126,7 +126,7 @@ a.turquoise:hover {
 }
 
 a.turquoise {
-	color: #0193cf;
+	color: #167ac6;/*#0193cf;*/
 }
 
 a.white {
@@ -142,15 +142,15 @@ a.white {
 }
 
 .turquoise {
-	color: #0193cf;
+	color: #167ac6;/*#167ac6;/*#0193cf;*/*/
 }
 
 .btn-solid-reg {
 	display: inline-block;
 	padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
-	border: 0.125rem solid #0193cf;
+	border: 0.125rem solid #167ac6;/*#0193cf;*/
 	border-radius: 2rem;
-	background-color: #0193cf;
+	background-color: #167ac6;/*#0193cf;*/
 	color: #fff;
 	font: 700 0.75rem/0 "Raleway","Noto Sans TC","Open Sans" , sans-serif;
 	text-decoration: none;
@@ -159,16 +159,16 @@ a.white {
 
 .btn-solid-reg:hover {
 	background-color: transparent;
-	color: #0193cf;
+	color: #167ac6;/*#0193cf;*/
 	text-decoration: none;
 }
 
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.375rem 2.625rem 1.375rem 2.625rem;
-	border: 0.125rem solid #0193cf;
+	border: 0.125rem solid #167ac6;/*#0193cf;*/
 	border-radius: 2rem;
-	background-color: #0193cf;
+	background-color: #167ac6;/*#0193cf;*/
 	color: #fff;
 	font: 700 0.75rem/0 "Raleway","Noto Sans TC","Open Sans" , sans-serif;
 	text-decoration: none;
@@ -177,24 +177,24 @@ a.white {
 
 .btn-solid-lg:hover {
 	background-color: transparent;
-	color: #0193cf;
+	color: #167ac6;/*#0193cf;*/
 	text-decoration: none;
 }
 
 .btn-outline-reg {
 	display: inline-block;
 	padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
-	border: 0.125rem solid #0193cf;
+	border: 0.125rem solid #167ac6;/*#0193cf;*/
 	border-radius: 2rem;
 	background-color: transparent;
-	color: #0193cf;
+	color: #167ac6;/*#0193cf;*/
 	font: 700 0.75rem/0 "Raleway","Noto Sans TC","Open Sans" , sans-serif;
 	text-decoration: none;
 	transition: all 0.2s;
 }
 
 .btn-outline-reg:hover {
-	background-color: #0193cf;
+	background-color: #167ac6;/*#0193cf;*/
 	color: #fff;
 	text-decoration: none;
 }
@@ -202,17 +202,17 @@ a.white {
 .btn-outline-lg {
 	display: inline-block;
 	padding: 1.375rem 2.625rem 1.375rem 2.625rem;
-	border: 0.125rem solid #0193cf;
+	border: 0.125rem solid #167ac6;/*#0193cf;*/
 	border-radius: 2rem;
 	background-color: transparent;
-	color: #0193cf;
+	color: #167ac6;/*#0193cf;*/
 	font: 700 0.75rem/0 "Raleway","Noto Sans TC","Open Sans" , sans-serif;
 	text-decoration: none;
 	transition: all 0.2s;
 }
 
 .btn-outline-lg:hover {
-	background-color: #0193cf;
+	background-color: #167ac6;/*#0193cf;*/
 	color: #fff;
 	text-decoration: none;
 }
@@ -220,17 +220,17 @@ a.white {
 .btn-outline-sm {
 	display: inline-block;
 	padding: 1rem 1.625rem 0.875rem 1.625rem;
-	border: 0.125rem solid #0193cf;
+	border: 0.125rem solid #167ac6;/*#0193cf;*/
 	border-radius: 2rem;
 	background-color: transparent;
-	color: #0193cf;
+	color: #167ac6;/*#0193cf;*/
 	font: 700 0.625rem/0 "Raleway","Noto Sans TC","Open Sans" , sans-serif;
 	text-decoration: none;
 	transition: all 0.2s;
 }
 
 .btn-outline-sm:hover {
-	background-color: #0193cf;
+	background-color: #167ac6;/*#0193cf;*/
 	color: #fff;
 	text-decoration: none;
 }
@@ -378,9 +378,9 @@ input[type='checkbox'] {
 	display: inline-block;
 	width: 100%;
 	height: 3.125rem;
-	border: 1px solid #0193cf;
+	border: 1px solid #167ac6;/*#0193cf;*/
 	border-radius: 1.5rem;
-	background-color: #0193cf;
+	background-color: #167ac6;/*#0193cf;*/
 	color: #fff;
 	font: 700 0.75rem/1.75rem "Raleway","Noto Sans TC","Open Sans" , sans-serif;
 	cursor: pointer;
@@ -389,7 +389,7 @@ input[type='checkbox'] {
 
 .form-control-submit-button:hover {
 	background-color: transparent;
-	color: #0193cf;
+	color: #167ac6;/*#0193cf;*/
 }
 
 /* Form Success And Error Message Formatting */
@@ -606,7 +606,7 @@ input[type='checkbox'] {
 	width: 1rem;
 	height: 1rem;
 	border-radius: 100%;
-	background-color: #0193cf;
+	background-color: #167ac6;/*#0193cf;*/
 	-webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
 	animation: sk-bouncedelay 1.4s infinite ease-in-out both;
 }
@@ -674,7 +674,7 @@ input[type='checkbox'] {
 
 .navbar-custom .nav-item .nav-link:hover,
 .navbar-custom .nav-item .nav-link.active {
-	color: #0193cf;
+	color: #167ac6;/*#0193cf;*/
 }
 
 /* Dropdown Menu */
@@ -719,7 +719,7 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .dropdown-item:hover .item-text {
-	color: #0193cf;
+	color: #167ac6;/*#0193cf;*/
 }
 
 .navbar-custom .dropdown-items-divide-hr {
@@ -923,7 +923,7 @@ input[type='checkbox'] {
 }
 
 .cards-2 .card .value {
-	color: #0193cf;
+	color: #167ac6;/*#0193cf;*/
 	font-weight: 700;
 	/*font-size: 3.5rem;*/
 	font-size:2.5rem;
@@ -933,7 +933,7 @@ input[type='checkbox'] {
 
 .cards-2 .card .currency {
 	margin-right: 0.375rem;
-	color: #0193cf;
+	color: #167ac6;/*#0193cf;*/
 	font-size: 1.5rem;
 	/*vertical-align: 56%;*/
 	vertical-align: 33%;
@@ -956,7 +956,7 @@ input[type='checkbox'] {
 }
 
 .cards-2 .card .list-unstyled .fas,.cards-2 .card .list-unstyled .fa {
-	color: #0193cf;
+	color: #167ac6;/*#0193cf;*/
 	line-height: 1.375rem;
 }
 
@@ -996,7 +996,7 @@ input[type='checkbox'] {
     position: relative;
 	width: 13.75rem;
 	padding: 0.3125rem 0 0.3125rem 4.125rem;
-    background-color: #0193cf;
+    background-color: #167ac6;/*#0193cf;*/
 	color: #fff;
     -webkit-transform: rotate(45deg) translate3d(0, 0, 0);
     -ms-transform: rotate(45deg) translate3d(0, 0, 0);
@@ -1043,7 +1043,7 @@ input[type='checkbox'] {
 }
 
 .basic-2 .list-unstyled .fas,.basic-2 .list-unstyled .fa {
-	color: #0193cf;
+	color: #167ac6;/*#0193cf;*/
 	line-height: 1.375rem;
 }
 
@@ -1117,7 +1117,7 @@ ul.liststyle li.list-img {
 	margin-bottom: 1.25rem;
 	margin-left: 0;
 	border: 0;
-	background-color: #0193cf;
+	background-color: #167ac6;/*#0193cf;*/
 	text-align: left;
 }
 
@@ -1126,7 +1126,7 @@ ul.liststyle li.list-img {
 }
 
 .lightbox-basic .list-unstyled .fas,.lightbox-basic .list-unstyled .fa {
-	color: #0193cf;
+	color: #167ac6;/*#0193cf;*/
 	line-height: 1.375rem;
 }
 
@@ -1149,7 +1149,7 @@ ul.liststyle li.list-img {
 }
 
 .lightbox-basic .btn-solid-reg.mfp-close:hover {
-	color: #0193cf;
+	color: #167ac6;/*#0193cf;*/
 }
 /* end of signup Button */
 
@@ -1159,7 +1159,7 @@ ul.liststyle li.list-img {
 	width: auto;
 	height: auto;
 	margin-left: 0.375rem;
-	color: #0193cf;
+	color: #167ac6;/*#0193cf;*/
 	opacity: 1;
 }
 
@@ -1222,7 +1222,7 @@ ul.liststyle li.list-img {
 }
 
 .form-1 .list-unstyled .fas,.form-1 .list-unstyled .fa {
-	color: #0193cf;
+	color: #167ac6;/*#0193cf;*/
 	line-height: 1.375rem;
 }
 
@@ -1294,7 +1294,7 @@ ul.liststyle li.list-img {
 	width: 4.75rem;
 	height: 4.75rem;
 	border-radius: 50%;
-	background: #0193cf;
+	background: #167ac6;/*#0193cf;*/
 	animation: pulse-border 1500ms ease-out infinite;
 	-webkit-transform: translateX(-50%) translateY(-50%);
 	-ms-transform: translateX(-50%) translateY(-50%);
@@ -1311,7 +1311,7 @@ ul.liststyle li.list-img {
 	width: 4.375rem;
 	height: 4.375rem;
 	border-radius: 50%;
-	background: #0193cf;
+	background: #167ac6;/*#0193cf;*/
 	transition: all 200ms;
 	-webkit-transform: translateX(-50%) translateY(-50%);
 	-ms-transform: translateX(-50%) translateY(-50%);
@@ -1566,7 +1566,7 @@ nav #about  -->#aboutaikido
 }
 
 .basic-4 .fa-stack-2x {
-	color: #0193cf;
+	color: #167ac6;/*#0193cf;*/
 	transition: all 0.2s ease;
 }
 
@@ -1611,7 +1611,7 @@ nav #about  -->#aboutaikido
 .form-2 .list-unstyled .fa,{
 	margin-right: 0.5rem;
 	font-size: 0.875rem;
-	color: #0193cf;
+	color: #167ac6;/*#0193cf;*/
 }
 
 .form-2 .list-unstyled .fa-phone {
@@ -1654,7 +1654,7 @@ nav #about  -->#aboutaikido
 }
 
 .footer .list-unstyled .fas ,.footer .list-unstyled .fa{
-	color: #0193cf;
+	color: #167ac6;/*#0193cf;*/
 	font-size: 0.5rem;
 	line-height: 1.375rem;
 }
@@ -1675,7 +1675,7 @@ nav #about  -->#aboutaikido
 }
 
 .footer .fa-stack .fa-stack-2x {
-	color: #0193cf;
+	color: #167ac6;/*#0193cf;*/
 	transition: all 0.2s ease;
 }
 
@@ -1771,7 +1771,7 @@ a:hover.back-to-top {
 
 .ex-basic-2 .list-unstyled .fas,
 .ex-basic-2 .list-unstyled .fa {
-	color: #0193cf;
+	color: #167ac6;/*#0193cf;*/
 	font-size: 0.5rem;
 	line-height: 1.375rem;
 }
@@ -2040,7 +2040,7 @@ a:hover.back-to-top {
 	
 	.navbar-custom.top-nav-collapse .nav-item .nav-link:hover,
 	.navbar-custom.top-nav-collapse .nav-item .nav-link.active {
-		color: #0193cf;
+		color: #167ac6;/*#0193cf;*/
 	}
 
 	.navbar-custom .dropdown-menu {
@@ -2076,7 +2076,7 @@ a:hover.back-to-top {
 	}
 	
 	.navbar-custom .fa-stack-2x {
-		color: #0193cf;
+		color: #167ac6;/*#0193cf;*/
 		transition: all 0.2s ease;
 	}
 	
@@ -2094,7 +2094,7 @@ a:hover.back-to-top {
 	}
 
 	.navbar-custom.top-nav-collapse .fa-stack-2x {
-		color: #0193cf;
+		color: #167ac6;/*#0193cf;*/
 	}
 	
 	.navbar-custom.top-nav-collapse .fa-stack-1x {
