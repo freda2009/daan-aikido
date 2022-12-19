@@ -828,7 +828,7 @@ input[type='checkbox'] {
 }
 
 .cards-1 .card {
-	max-width: 21rem;
+	max-width: 100%;/*max-width: 21rem;*/
 	margin-right: auto;
 	margin-bottom: 4.5rem;
 	margin-left: auto;
@@ -840,9 +840,7 @@ input[type='checkbox'] {
 }
 
 .cards-1 .card-image {
-   /*width: 6rem;
-     height: 6rem;*/
-    width:15rem;
+    width: 100%;/*width:15rem;*/
     height: auto;
     padding:2rem;
     margin:0 auto 2rem;  
@@ -1364,7 +1362,7 @@ ul.liststyle li.list-img {
 nav #about  -->#aboutaikido
 */
 #aboutaikido{
-	background: url('../images/testimonials-background_2.jpg') center center no-repeat;
+	background: url('../images/testimonials-background.jpg') center center no-repeat;
 	background-size: cover;
 }
 
@@ -2151,7 +2149,7 @@ a:hover.back-to-top {
 	/* Services */
 	.cards-1 .card {
 		display: inline-block;
-		max-width: 17.125rem;
+		/*max-width: 17.125rem;*/
 		vertical-align: top;
 	}
 
@@ -2354,7 +2352,7 @@ a:hover.back-to-top {
 
 	/* Services 課程班別 */
 	.cards-1 .card {
-		max-width: 21rem;
+		/*max-width: 21rem;*/
 	}
 
 	.cards-1 .col-lg-12 div.card:nth-child(3n+2) {
